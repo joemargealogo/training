@@ -1,0 +1,9 @@
+.classpath
+.project
+.settings
+.DS_Store
+.metadata
+.wtpmodules
+.dat
+.trash_*
+
